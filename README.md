@@ -6,7 +6,7 @@ Site web de politiques et support pour l'application mobile "Le P'tit Cash".
 
 Votre site est accessible à l'adresse suivante :
 
-### **https://vincentcorbeil.github.io/leptitcash-policies/**
+### **https://applicationqc.github.io/leptitcash-policies/**
 
 ## 📋 Contenu du site
 
@@ -19,7 +19,7 @@ Le site contient :
 
 Si le site n'est pas encore accessible, suivez ces étapes pour activer GitHub Pages :
 
-1. Allez sur votre dépôt GitHub : https://github.com/vincentcorbeil/leptitcash-policies
+1. Allez sur votre dépôt GitHub : https://github.com/applicationqc/leptitcash-policies
 2. Cliquez sur **Settings** (Paramètres)
 3. Dans le menu de gauche, cliquez sur **Pages**
 4. Sous "Source", sélectionnez :
